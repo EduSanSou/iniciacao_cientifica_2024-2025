@@ -1,4 +1,6 @@
 # iniciacao_cientifica_2024-2025
+Repositório relacionado aos projetos de Iniciação Científica do estudante Eduardo Souza e da estudante Beatriz Azevedo da Universidade Federal da Bahia (UFBA) sob orientação de Adriana Ribeiro e Leobino Sampaio, envolvendo os temas de caracterização de datasets públicos e experimentação de aplicações IoT por meio de dispositivos de hardware programáveis. O projeto é resultado do Programa Institucional de Bolsas de Iniciação Científica (PIBIC) da UFBA com fomento da Fundação de Amparo à Pesquisa do Estado da Bahia (FAPESB).
+
 O diretório intel_lab_dataset contém o dataset utilizado no projeto, assim como sua descrição, scripts utilizados, subconjuntos e demais arquivos relacionados. Segue uma breve descrição de cada um deles:
 
 Intel Lab Data.pdf: página web que descreve o projeto que sintetizou o dataset;
@@ -31,4 +33,4 @@ script_moteid_readings.py: código para gerar cada um dos arquivos contidos em d
 
 script_right_data.py: código para gerar o arquivo contido em right_data.zip;
 
-Observação: alguns arquivos foram comprimidos por conta do tamanho original.
+(observação: alguns arquivos foram comprimidos por conta do tamanho original)
