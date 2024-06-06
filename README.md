@@ -7,7 +7,7 @@ Intel Lab Data.pdf: página web que descreve o projeto que sintetizou o dataset;
 
 data.zip: arquivo que contém o dataset original;
 
-data_device_moteid.zip: arquivo que contém os registros do dataset separados por dispositivo;
+data_device_moteid.zip: arquivo que contém os registros corretos do dataset separados por dispositivo;
 
 data_with_labels.zip: arquivo que contém o dataset original acrescido de campos na primeira linha;
 
