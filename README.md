@@ -34,3 +34,9 @@ script_moteid_readings.py: código para gerar cada um dos arquivos contidos em d
 script_right_data.py: código para gerar o arquivo contido em right_data.zip;
 
 (observação: alguns arquivos foram comprimidos por conta do tamanho original)
+
+O diretório sensor_scripts contém os scripts executados nos dispositivos-sensores para publicação de dados. Segue uma breve descrição de cada um deles:
+
+script_mqtt_publisher_json_data.py: script para o dispositivo publicador do tópico /home/sensors
+
+script_mqtt_publisher_2_json_data.py: script para o dispositivo publicador do tópico /home/sensors2
