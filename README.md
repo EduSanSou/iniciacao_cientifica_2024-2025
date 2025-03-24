@@ -40,3 +40,5 @@ O diretório sensor_scripts contém os scripts executados nos dispositivos-senso
 script_mqtt_publisher_json_data.py: script para o dispositivo publicador do tópico /home/sensors
 
 script_mqtt_publisher_2_json_data.py: script para o dispositivo publicador do tópico /home/sensors2
+
+(observação: o dataset right_data.txt foi renomeado apenas como data.txt no momento da execução dos scripts, como pode ser observado em script_mqtt_publisher_json_data.py e script_mqtt_publisher_2_json_data.py)
