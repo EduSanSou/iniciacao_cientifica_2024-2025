@@ -21,7 +21,7 @@ inconsistent_data.txt: arquivo que contém apenas as linhas do dataset original 
 
 inconsistent_data_with_labels.txt: arquivo que contém apenas as linhas do dataset original com identificação de dispositivo incoerente, acrescido de campos na primeira linha;
 
-right_data.zip: arquivo que contém apenas as linhas corretas do dataset original;
+right_data.zip: arquivo que contém apenas as linhas corretas do dataset original e que foi utilizado para a geração dos traces;
 
 right_data_with_labels.zip: arquivo que contém apenas as linhas corretas do dataset original, acrescido de campos na primeira linha;
 
