@@ -44,3 +44,9 @@ script_mqtt_publisher_json_data.py: script para o dispositivo publicador do tóp
 script_mqtt_publisher_2_json_data.py: script para o dispositivo publicador do tópico /home/sensors2
 
 (observação: o dataset right_data.txt foi renomeado apenas como data.txt no momento da execução dos scripts, como pode ser observado em script_mqtt_publisher_json_data.py e script_mqtt_publisher_2_json_data.py)
+
+O diretório raiz contém arquivos adicionais:
+
+processing_data.json: arquivo Node-RED para processamento dos dados publicados pelos sensores
+
+REAME.md: descrição do repositório e arquivos contidos nele
